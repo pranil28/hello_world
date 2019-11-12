@@ -1,2 +1,3 @@
 # hello_world
 First repository
+My name's Rock and I'm a student...
